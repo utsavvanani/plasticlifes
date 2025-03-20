@@ -1,0 +1,20 @@
+.bg-banner1 {
+  background-image: url('https://res.cloudinary.com/dzahbpebb/image/upload/v1721729357/discount_banner_iibjdh.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.bg-banner2 {
+  background-image: url('https://res.cloudinary.com/dzahbpebb/image/upload/v1721729364/discount_banner2_sfg6rf.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
